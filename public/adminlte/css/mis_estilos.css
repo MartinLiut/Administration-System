@@ -1,0 +1,9 @@
+@import 'scrollbar.css';
+
+.fa-asterisk {
+	font-size: 0.8em;
+	color: #D5A2A2;
+	margin-right: 6px;
+}
+
+button span { margin-right: 10px }
